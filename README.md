@@ -22,4 +22,9 @@ Portal de notícias de tecnologia com foco em temas atuais como Inteligência Ar
 - Seção de notícias em destaque
 - Seção "Mais lidas da semana" com hover animado na seta
 
+---
+
+## 🔗 Demonstração
+
+![preview](https://delquiare.github.io/Portal-Noticias/)
 
