@@ -25,6 +25,7 @@ section header {
 
 
 #featured {
+  grid-area: featured;
   img {
     height: 100%;
     object-fit: cover;
@@ -70,6 +71,7 @@ section header {
 }
 
 #weekly {
+  grid-area: weekly;
 
   & > div {
     grid-template-columns: repeat(4, 292px);
@@ -94,3 +96,73 @@ section header {
     }
   }
 }
+
+#ai {
+  grid-area: ai;
+
+  img { 
+  width: 176px;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+}
+
+h3 {
+  margin-block: 8px 4px;
+
+}
+}
+
+aside {
+  grid-area: aside;
+}
+
+#more {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.more-items {
+  display: flex;
+  flex-direction: column;
+  gap: 8px; 
+}
+
+.more-card {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 16px;
+  
+}
+
+.more-card img {
+  width: 72px; 
+  height: 72px;
+  object-fit: cover;
+}
+
+.more-content {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.more-content h3 {
+  font-size: 12px;
+  line-height: 1.4;
+  color: var(--text-color-primary);
+}
+
+.content-tag {
+  display: inline-block;
+  background-color: var(--brand-color-dark);
+  color: white;
+  padding: 4px 8px;
+  font-size: 10px;
+  font-weight: 600;
+  border-radius: 4px;
+  text-transform: uppercase;
+}
+
+
