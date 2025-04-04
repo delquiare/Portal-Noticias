@@ -26,5 +26,5 @@ Portal de notícias de tecnologia com foco em temas atuais como Inteligência Ar
 
 ## 🔗 Demonstração
 
-![preview](https://delquiare.github.io/Portal-Noticias/)
+https://delquiare.github.io/Portal-Noticias/
 
