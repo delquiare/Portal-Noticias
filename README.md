@@ -1,6 +1,12 @@
 # 📰 Portal TechNews
 
-Portal de notícias de tecnologia com foco em temas atuais como Inteligência Artificial, Realidade Virtual, Internet e muito mais. O projeto simula uma homepage de um portal informativo, com seções organizadas, componentes reutilizáveis e design moderno.
+Portal de notícias de tecnologia com foco em temas atuais como Inteligência Artificial, Realidade Virtual, Internet e muito mais. O projeto simula uma homepage de um portal informativo, com seções organizadas, componentes reutilizáveis e design moderno. Projeto número 4.
+
+#
+
+<p align="center">
+  <img alt="preview do projeto" src="./assets/images/capa_preview_portal_noticias.png" width="100%">
+</p>
 
 ---
 
